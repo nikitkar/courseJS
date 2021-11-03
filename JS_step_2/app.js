@@ -49,3 +49,5 @@ const firstZadanie = function(){
 
     console.log(personalMovieDB);
 };
+
+firstZadanie();
