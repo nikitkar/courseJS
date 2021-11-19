@@ -52,3 +52,11 @@ const personalMovieDB = {
         else personalMovieDB.privat = true;
     }
 };
+
+// personalMovieDB.start();
+// personalMovieDB.rememberMyFilms();
+// personalMovieDB.detectPersonalLevel();
+// personalMovieDB.showMyDB();
+// personalMovieDB.toggleVisibleMyDB();
+
+console.log(personalMovieDB);
